@@ -5,7 +5,7 @@
 - It allows sharing with others via social media or email, and viewing past memes in a table or collection view.
 
 ## Setup
-- Core Data was used to store pictures.
+- Core Data was used to store pictures in a table or grid view.
 
 ## How to run it
 - When you first launch the app the Sent Memes View will appear. When you tap the + button in the top right corner the app will push the Meme Editor View on top of the Sent Memes View.
