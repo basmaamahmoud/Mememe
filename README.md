@@ -18,7 +18,6 @@
 ## Images for the App
 
 ![simulator screen shot - iphone 8 - 2018-08-10 at 16 44 26](https://user-images.githubusercontent.com/35192412/43964638-96421a8c-9cbd-11e8-9a80-dd5d89eb7ea2.png)    ![simulator screen shot - iphone 8 plus - 2018-08-10 at 16 47 48](https://user-images.githubusercontent.com/35192412/43964640-96db1228-9cbd-11e8-9292-4a8895560b26.png)
-
 ![simulator screen shot - iphone 8 plus - 2018-08-10 at 16 48 52](https://user-images.githubusercontent.com/35192412/43964642-97e715f4-9cbd-11e8-8a47-48e56bafe636.png)    ![simulator screen shot - iphone 8 plus - 2018-08-10 at 16 48 57](https://user-images.githubusercontent.com/35192412/43964643-98fec856-9cbd-11e8-99cf-251605caef2f.png)
 
 ![simulator screen shot - iphone 8 plus - 2018-08-10 at 16 49 00](https://user-images.githubusercontent.com/35192412/43964644-9a7b9c18-9cbd-11e8-939f-b38f88065839.png)
